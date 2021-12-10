@@ -1,0 +1,42 @@
+
+.Fonttype{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.Fonttype2{ 
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.Fonttype3{
+    font-family:cursive;
+}
+.Fontsize{
+    font-size:medium
+}
+.Colors{
+    color:blanchedalmond;
+    
+
+}
+
+.Colors2{
+    color:cadetblue;
+}
+.Colors3{
+    color:darkolivegreen;
+}
+.Colors4{
+    color:darkturquoise
+}
+
+.img_border{
+    border:10px solid grey;
+    width:560px;
+}
+body{   
+background-color:#FFDAC8;
+}
+a{
+    color:white;
+}
+
+

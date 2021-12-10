@@ -1,0 +1,47 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.tab_header{
+    height:300px;
+    width:100vw;
+    background-image: url('https://wikitravel.org/upload/shared//2/2c/Wasatch_Front_Banner.jpg');
+}
+.tab_body{
+    width:75vw;
+    margin-left:auto;
+    margin-right:auto;
+}
+.tab_footer{
+    height:50px;
+    width:100vw;
+}
+
+body{
+    background-color: #FFDAC8;
+}
+
+.my_nav{
+    float:right;
+    background-color:white;
+    border-radius: 8px;
+    padding:12px;
+    margin-right:50px;
+    margin-top:15px;
+
+}
+
+a{
+    color:gray;
+    text-decoration: none;
+}
+
+a:hover{
+    color:blue;
+}
+
+.my_header{
+    text-align:center;
+    font-size:56px;
+    color:black;
+}
